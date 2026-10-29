@@ -129,15 +129,9 @@ Through this project, I learned:
 
 ## 📸 Project Screenshots
 
-Add screenshots to a `screenshots/` directory to demonstrate your implementation.
+<img width="935" height="458" alt="image" src="https://github.com/user-attachments/assets/37cf8a2c-0b5f-4754-91fa-df14be49135f" />
 
-Suggested screenshots:
-
-1. S3 bucket showing uploaded website files.
-2. CloudFront distribution configuration.
-3. CloudFront distribution status showing deployment completion.
-4. Website running through the CloudFront domain.
-5. S3 bucket policy showing restricted CloudFront access.
+<img width="932" height="406" alt="image" src="https://github.com/user-attachments/assets/115e5715-44a6-488f-9d21-e565a2ab8861" />
 
 ## 👨‍💻 Author
 
