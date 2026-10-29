@@ -137,7 +137,6 @@ Through this project, I learned:
 
 **Vineet Vikram Rao**
 
-- GitHub: https://github.com/galac01389
 - LinkedIn: https://www.linkedin.com/in/vvrao13
 
 ---
